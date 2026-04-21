@@ -1,0 +1,8 @@
+{
+  "/call-center/page": "app/call-center/page.js",
+  "/emergency-ambulance/page": "app/emergency-ambulance/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/video-consultation/page": "app/video-consultation/page.js"
+}
